@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance and Payroll Management",
+  "description": "A comprehensive system to manage employee records, daily attendance logs, payroll calculations, and generate analytical HR reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
